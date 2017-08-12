@@ -179,3 +179,4 @@ a.Beauty:before {content:"\f004"}
 a.Food:before {content:"\f015"}
 a.News:before {content:"\f1ea"}
 
+.ust{width: 100%;transition: width 0.666667s linear;background-image: linear-gradient(270deg, #FFEB3B, #F44336);height: 5px;}
